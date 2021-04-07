@@ -1,10 +1,12 @@
 # SDL2Test
 
 # Information:
-  Tested build for mingw32 from raylib standalone and portable compiler.
+  Tested build for mingw32 from raylib standalone and portable compiler. To have some basic code tests.
+
+  Tested imgui simple window gui display.
 
 # Setup:
-  Download the SDL2 Development Libraries MinGW
+  Download the SDL2 Development Libraries MinGW.
 
   Download Raylib installer.
 
